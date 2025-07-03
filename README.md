@@ -1,16 +1,36 @@
-## Hi there 👋
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-<!--
-**nani12-nithish/nani12-nithish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=800&color=FF00FF&background=0D1117¢er=true&vCenter=true&width=450&lines=//+Jagadeesh+Kota;Initializing+Code+Matrix..." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌆 Code Nexus: VoidRaven ⚡️
+
+*Fix the cause, 🛠️ not the symptom.*  
+— **Steve Maguire**
+
+#### 🌌 Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-00FFFF?logo=python&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-React-FF00FF?logo=react&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Next.js-39FF14?logo=next.js&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Flutter-00FFFF?logo=flutter&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-C-FF00FF?logo=c&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Git-39FF14?logo=git&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-HTML5-00FFFF?logo=html5&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-CSS3-FF00FF?logo=css3&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-JavaScript-39FF14?logo=javascript&logoColor=000000&style=plastic" />
+  <img src="https://img.shields.io/badge/-Flask-00FFFF?logo=flask&logoColor=000000&style=plastic" />
+</p>
+
+#### 🔗 Interface Links
+- 📡 Email: [kota.jagadesh123@gmail.com](mailto:kota.jagadesh123@gmail.com)
+- 💾 LinkedIn: [jagadeeshwar-reddy-kota](https://www.linkedin.com/in/jagadeeshwar-reddy-kota)
+- 🌐 Portfolio: [kota-jagadeesh.github.io](https://kota-jagadeesh.github.io)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Plug+Into+the+Grid-00B7EB?style=for-the-badge&logo=codeigniter" />
+</p>
