@@ -28,8 +28,8 @@
 
 #### 🔗 Interface Links
 - 📡 Email: [chamarthinithish230@gmail.com](mailto:chamarthinithish230@gmail.com)
-- 💾 LinkedIn: [jagadeeshwar-reddy-kota](https://www.linkedin.com/in/jagadeeshwar-reddy-kota)
-- 🌐 Portfolio: [kota-jagadeesh.github.io](https://kota-jagadeesh.github.io)
+- 💾 LinkedIn: [nithish chamarthi](https://www.linkedin.com/in/nithish chamarthi)
+- 🌐 Portfolio: [nithish chamarthi.github.io](https://nithish chamarthi.github.io)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Plug+Into+the+Grid-00B7EB?style=for-the-badge&logo=codeigniter" />
